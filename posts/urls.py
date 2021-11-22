@@ -6,3 +6,6 @@ urlpatterns = [
     path('',PostList.as_view()),
 
     ]
+
+
+    #asf
